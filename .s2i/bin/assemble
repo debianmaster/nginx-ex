@@ -1,0 +1,1 @@
+cp /tmp/src/* /etc/opt/rh/rh-nginx112/nginx/
